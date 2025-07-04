@@ -1,4 +1,4 @@
-package ru.kreketjot.removeElement27;
+package ru.kreketjot.remove_element_27;
 
 class Solution {
     public int removeElement(int[] nums, int val) {

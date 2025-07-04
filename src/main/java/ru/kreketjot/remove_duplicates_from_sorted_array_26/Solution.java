@@ -1,4 +1,4 @@
-package ru.kreketjot.removeDuplicatesFromSortedArray26;
+package ru.kreketjot.remove_duplicates_from_sorted_array_26;
 
 class Solution {
     public int removeDuplicates(int[] nums) {

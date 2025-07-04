@@ -1,4 +1,4 @@
-package ru.kreketjot.rotateArray189;
+package ru.kreketjot.rotate_array_189;
 
 public class Solution {
     public void rotateV1(int[] nums, int k) {

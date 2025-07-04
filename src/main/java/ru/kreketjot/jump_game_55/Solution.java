@@ -1,4 +1,4 @@
-package ru.kreketjot.jumpGame55;
+package ru.kreketjot.jump_game_55;
 
 public class Solution {
     public boolean canJump(int[] nums) {

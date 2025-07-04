@@ -1,4 +1,4 @@
-package ru.kreketjot.hIndex274;
+package ru.kreketjot.h_index_274;
 
 import java.util.Arrays;
 

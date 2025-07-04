@@ -1,4 +1,4 @@
-package ru.kreketjot.majorityElement169;
+package ru.kreketjot.majority_element_169;
 
 class Solution {
     public int majorityElement(int[] nums) {

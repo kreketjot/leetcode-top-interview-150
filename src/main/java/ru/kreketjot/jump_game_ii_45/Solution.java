@@ -1,4 +1,4 @@
-package ru.kreketjot.jumpGameIi45;
+package ru.kreketjot.jump_game_ii_45;
 
 public class Solution {
     public int jump(int[] nums) {
